@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rizkiachr
+- 👋 Hi, I’m Achir
 - 👀 I’m interested in Data Science and Data Analyst 
-- 🌱 I’m currently learning cloud technologies
+- 🌱 I’m currently learning cloud technologies and Deep Learning
 - 💞️ I’m looking to collaborate on Data Analyst and Data Science positions to be a problem solver
 - 📫 How to reach me muh.rizkiachirlita@gmail.com
 
