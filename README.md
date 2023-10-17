@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Achir
 - 👀 Interested in Data Science and Data Analyst 
-- 💞️ I’m looking for collaborate on Data Analyst and Data Science positions to be a problem solver
+- 💞️ Looking for collaborate on Data Analyst and Data Science positions to be a problem solver
 - 📫 How to reach me muh.rizkiachirlita@gmail.com
 
 <!---
